@@ -5,6 +5,8 @@
 Put this folder in : C:/[..]/myisotoolsFolder/busGitTools
 (next to Application)
 
+Need the git command line interface installed globally. If not run this tools with the github shell
+
 ## Features
 
 Batches are here to help you map and pull all the components and themes. They all need the git cli system.
