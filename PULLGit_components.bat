@@ -1,5 +1,4 @@
 cd ..
-cd builder
 cd Application
 cd components
 git -C busJquery pull 

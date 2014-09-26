@@ -1,5 +1,4 @@
 cd ..
-cd builder
 cd Application
 cd components
 rd busJquery /S /Q
