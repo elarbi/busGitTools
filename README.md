@@ -1,11 +1,12 @@
 # Isotools GIT helper : busGitTools
 
 ## Install
+###Step 1: install git command line interface. You can download it from http://git-scm.com
+###Step 2: clone this repository into your "builder" directory. For example, the following command:
 
-Put this folder in : C:/[..]/myisotoolsFolder/busGitTools
-(next to Application)
+    C:\myIsotoolsFolder\builder> git clone https://github.com/isotools-busLab/busGitTools.git busGitTools
 
-Need the git command line interface installed globally. If not run this tools with the github shell
+will clone busGitTools repository into "busGitTools" folder (it will create the folder if it doesn't exist).
 
 ## Features
 
